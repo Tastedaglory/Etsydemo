@@ -17,6 +17,12 @@ gem 'coffee-rails', '~> 4.1.0'
 # gem for Paperclip
 gem "paperclip", "~> 4.3"
 
+# gem adapter for Paperclip
+gem "paperclip-dropbox", ">= 1.1.7"
+
+# gem for Figaro data security 
+gem "figaro"
+
 # gem for Bootstrap
 gem 'bootstrap-sass', '~> 3.3.5'
 # Use jquery as the JavaScript library
